@@ -4,5 +4,11 @@
   "description": "Collapse code area on github.com to more directly access README files.",
   "main": "index.js",
   "author": "Jean-Denis Vauguet <jd@vauguet.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "web-ext": "web-ext"
+  },
+  "devDependencies": {
+    "web-ext": "^2.9.2"
+  }
 }
