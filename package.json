@@ -2,6 +2,7 @@
   "name": "github-code-collapse",
   "version": "0.1.0",
   "description": "Collapse code area on github.com to more directly access README files.",
+  "repository": "https://github.com/chikamichi/github-code-collapse",
   "main": "index.js",
   "author": "Jean-Denis Vauguet <jd@vauguet.fr>",
   "license": "MIT",
