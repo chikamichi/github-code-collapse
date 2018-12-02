@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Collapse code area on github.com to more directly access README files.",
   "repository": "https://github.com/chikamichi/github-code-collapse",
+  "bugs": {
+    "url": "https://github.com/chikamichi/github-code-collapse/issues"
+  },
   "main": "index.js",
   "author": "Jean-Denis Vauguet <jd@vauguet.fr>",
   "license": "MIT",
@@ -11,5 +14,10 @@
   },
   "devDependencies": {
     "web-ext": "^2.9.2"
-  }
+  },
+  "keywords": [
+    "GitHub",
+    "Chrome Extension",
+    "Firefox Extension"
+  ]
 }
